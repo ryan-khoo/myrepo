@@ -3,7 +3,7 @@
   "width": 500,
   "height": 300,
   "data": {
-    "url": "data/us-10m.json",
+    "url": "https://ryan-khoo.github.io/myrepo/us-10m.json",
     "format": {
       "type": "topojson",
       "feature": "counties"
@@ -14,7 +14,7 @@
       "lookup": "id",
       "from": {
         "data": {
-          "url": "data/unemployment.tsv"
+          "url": "https://ryan-khoo.github.io/myrepo/unemployment.tsv"
         },
         "key": "id",
         "fields": [
